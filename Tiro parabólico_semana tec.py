@@ -1,6 +1,7 @@
 "Programa de tiro parabólico"
 "Autores: Juan Carlos Pérez Collazo A01284143, Ian Becerra A01274634"
-"Este juego simula un tiro parabólico utilizando una bola que destruye unas naves"
+"Este juego simula un tiro parabólico utilizando una bola que destruye unas naves y es parte de la última evidencia de la semana tec:herramientas computacionales"
+
 from random import randrange
 from turtle import *
 from freegames import vector
