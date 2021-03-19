@@ -1,7 +1,8 @@
-"Programa de tiro parabólico"
+"Programa de tiro parabólico evidencia de competencias"
 "Autores: Juan Carlos Pérez Collazo A01284143, Ian Becerra A01274634"
 "Este juego simula un tiro parabólico utilizando una bola que destruye unas naves y es parte de la última evidencia de la semana tec:herramientas computacionales"
 "Esta es la explicación de la última evidencia"
+
 from random import randrange
 from turtle import *
 from freegames import vector
