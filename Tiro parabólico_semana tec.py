@@ -62,9 +62,12 @@ def move():
 
     for target in targets:
         if not inside(target):
-            return
+            target.x = 199 #se quita el return, que originalmente hace que se termine el juego y se cambia a un valor nuevo de x.
+            
+    ontimer(move, 10) #se disminuye el número para aumentar el movimiento
 
-    ontimer(move, 50)
+    
+    
 
 setup(420, 420, 370, 0)
 hideturtle()
