@@ -1,5 +1,6 @@
 "Programa de tiro parabólico"
 "Autores: Juan Carlos, Ian Becerra"
+"Este juego simula un tiro parabólico utilizando una bola que destruye unas naves"
 from random import randrange
 from turtle import *
 from freegames import vector
