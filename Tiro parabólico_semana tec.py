@@ -1,3 +1,5 @@
+"Programa de tiro parabólico"
+"Autores: Juan Carlos, Ian Becerra"
 from random import randrange
 from turtle import *
 from freegames import vector
